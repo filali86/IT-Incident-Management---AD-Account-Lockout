@@ -55,8 +55,8 @@ This project demonstrates a complete IT support workflow for resolving a common 
 
 ## Screenshots
 ![Ticket Submission](screenshots/1.png)
-![Login Error](screenshots/2-login-error.png)
-![AD Account Investigation](screenshots/3-ad-investigation.png)
-![Account Unlock](screenshots/4-account-unlock.png)
-![Successful Login](screenshots/5-successful-login.png)
-![Ticket Resolution](screenshots/6-ticket-closed.png)
+![Login Error](screenshots/2.png)
+![AD Account Investigation](screenshots/3.png)
+![Account Unlock](screenshots/4.png)
+![Successful Login](screenshots/5.png)
+![Ticket Resolution](screenshots/6.png)
