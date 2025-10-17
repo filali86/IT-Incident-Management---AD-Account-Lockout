@@ -1,6 +1,6 @@
 # IT-Incident-Management---AD-Account-Lockout
 
-# IT Incident Management: Active Directory Account Lockout Resolution
+IT Incident Management: Active Directory Account Lockout Resolution
 
 ## Overview
 This project demonstrates a complete IT support workflow for resolving a common enterprise issue: user account lockouts in Active Directory. The scenario covers the entire incident management lifecycle from ticket creation to resolution and documentation.
